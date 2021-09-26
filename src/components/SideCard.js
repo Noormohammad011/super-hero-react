@@ -16,7 +16,7 @@ const SideCard = ({ heroesCard }) => {
       <p>Total: {heroesCard.length}</p>
       <p>Total Cost: {totalCost}</p>
       <br />
-      <div className='container'>
+      <div className='container-fluid'>
         <table className='table'>
           <thead>
             <tr>
