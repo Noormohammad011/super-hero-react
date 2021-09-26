@@ -26,7 +26,7 @@ const Heroes = ({ hero, hereosToCard }) => {
             className='btn btn-outline-primary'
             type='button'
           >
-            <i className='fas fa-user-secret'> Sallary</i>
+            <i className='fas fa-search-dollar'>Cost</i>
           </button>
         </div>
       </div>

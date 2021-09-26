@@ -13,7 +13,7 @@ const SideCard = ({ heroesCard }) => {
 
   return (
     <div className='bg-outline-primary'>
-      <p>Total Added: {heroesCard.length}</p>
+      <p>Total Added : {heroesCard.length}</p>
       <p>Total Cost: {totalCost}</p>
       <br />
       <div className='container-fluid'>
